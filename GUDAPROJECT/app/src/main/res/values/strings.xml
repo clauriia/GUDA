@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">GUDA PROJECT</string>
+    <string name="title">GUDA HERITAGE CENTER</string>
+    <string name="titlepage_button">EXPLORE</string>
+    <string name="nav_header_title">GUDA HERITAGE CENTER</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu_history">GUDA History</string>
+    <string name="menu_learn">Learn the Dialect</string>
+    <string name="menu_folklore">GUDA Folklore</string>
+    <string name="menu_ads">GUDA Businesses</string>
+    <string name="founding">Founding</string>
+    <string name="quarters">Quarters</string>
+    <string name="chiefs">Chiefs and Dignitaries</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="awom">Awom</string>
+    <string name="gonum">Gonum</string>
+    <string name="negui">Negui</string>
+    <string name="gakou">Gakou</string>
+    <string name="aqua">Aqua</string>
+    <string name="newtown">New Town</string>
+
+</resources>
